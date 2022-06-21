@@ -43,8 +43,8 @@
 		"startBias": ["Avoid [Jungle]","Avoid [Forest]","Avoid [Tundra]"],
 		"preferredVictoryType": "Cultural",
 		
-		"startIntroPart1": "TBD",
-		"startIntroPart2": "TBD",
+		"startIntroPart1": "Oh mighty Solomon, you are rule over the kingdom of Israel after your father, David, died. You rule them with wisdom from God himself and you built a temple for him, too. But tragedy struck after you died. The kingdom has split into two, then soon be conquered by other civilizations.",
+		"startIntroPart2": "Dear our great king, your people is praying God for rescue them from the darkness! Can you lead them to the light with the wisdom from God? Can you build a civilization thats stand the test of time?",
 		
 		"declaringWar": "The Lord demands justice!",
 		"attacked": "The Lord presented me your plans. We are prepared!",
